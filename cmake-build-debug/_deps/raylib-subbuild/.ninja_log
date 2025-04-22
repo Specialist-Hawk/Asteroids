@@ -1,0 +1,21 @@
+# ninja log v6
+5	131	7668528306911476	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	699b021d1dfc0165
+5	131	7668528306911476	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	699b021d1dfc0165
+567236	567377	7668533979385075	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	731b1cbe1a0883aa
+132	567088	7668533976498634	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	c1c301645ed66de6
+132	567088	7668533976498634	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	c1c301645ed66de6
+567377	567492	7668533980530087	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	5fe5e4a91e768ffd
+567089	567235	7668533977940948	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	bf0d62af1716f216
+567236	567377	7668533979385075	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	731b1cbe1a0883aa
+567089	567235	7668533977940948	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	bf0d62af1716f216
+567377	567492	7668533980530087	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	5fe5e4a91e768ffd
+567492	567606	7668533981670428	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	2330402f9da8bae1
+567492	567606	7668533981670428	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	2330402f9da8bae1
+567607	567726	7668533982865139	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	827eebcff1d85b88
+567845	568005	7668533985652340	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	fa5a6a061ad68985
+567607	567726	7668533982865139	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	827eebcff1d85b88
+567727	567845	7668533984052535	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	97c6eb6e79299fe4
+567727	567845	7668533984052535	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	97c6eb6e79299fe4
+567845	568005	7668533985652340	CMakeFiles/raylib-populate-complete	fa5a6a061ad68985
+567845	568005	7668533985652340	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	fa5a6a061ad68985
+567845	568005	7668533985652340	C:/Users/burha/OneDrive/Desktop/asteriods/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	fa5a6a061ad68985
